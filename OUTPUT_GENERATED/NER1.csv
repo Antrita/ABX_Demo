@@ -1,0 +1,11 @@
+Timestamp,Speaker,Cleaned_Message,BERT_Tokens
+"[('4:20 PM', 'TIME')]","[('FX', 'ORG'), ('Kemi', 'PERSON')]","[('chinedu', 'PERSON')]","[('chin', 'PERSON')]"
+"[('4:21 PM', 'TIME')]","[('FX', 'ORG'), ('2', 'CARDINAL'), ('Chinedu', 'PERSON')]","[('kemi', 'PERSON')]",
+"[('4:22 PM', 'TIME')]","[('FX', 'ORG'), ('Kemi', 'PERSON')]","[('3 million', 'CARDINAL'), ('77550', 'DATE')]",
+"[('4:23 PM', 'TIME')]","[('FX', 'ORG'), ('2', 'CARDINAL'), ('Chinedu', 'PERSON')]","[('3 million', 'CARDINAL'), ('kemi', 'PERSON'), ('77550', 'DATE'), ('about 775', 'CARDINAL')]",
+"[('4:24 PM', 'TIME')]","[('FX', 'ORG'), ('Kemi', 'PERSON')]","[('chinedu', 'PERSON'), ('77480', 'DATE')]","[('chin', 'PERSON')]"
+"[('4:25 PM', 'TIME')]","[('FX', 'ORG'), ('2', 'CARDINAL'), ('Chinedu', 'PERSON')]","[('77480', 'DATE'), ('kemi', 'PERSON'), ('77490', 'DATE')]",
+"[('4:26 PM', 'TIME')]","[('FX', 'ORG'), ('Kemi', 'PERSON')]","[('77490', 'DATE'), ('3 million', 'CARDINAL'), ('77490', 'DATE')]",
+"[('4:27 PM', 'TIME')]","[('FX', 'ORG'), ('2', 'CARDINAL'), ('Chinedu', 'PERSON')]","[('the hour', 'TIME')]","[('the, hour', 'TIME')]"
+"[('4:28 PM', 'TIME')]","[('FX', 'ORG'), ('Kemi', 'PERSON')]","[('chinedu', 'PERSON')]","[('chin', 'PERSON')]"
+"[('4:29 PM', 'TIME')]","[('FX', 'ORG'), ('2', 'CARDINAL'), ('Chinedu', 'PERSON')]","[('kemi', 'PERSON')]",
