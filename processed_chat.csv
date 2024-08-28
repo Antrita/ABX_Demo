@@ -1,12 +1,11 @@
 Timestamp,Speaker,Cleaned_Message,Token_Category,Rate,Sentiment,BERT_Tokens
-4:20 PM,FX Trader 1 (Kemi),chinedu need to move on usdngn whats your rate,Currency,,Neutral,"chinedu , need to move on usd / ngn . what ’ s your rate ?"
-4:21 PM,FX Trader 2 (Chinedu),kemi good to hear from you i can offer 77550 how much are you looking to trade,Rate Offer,775.5,Positive,"kemi , good to hear from you . i can offer 775 . 50 . how much are you looking to trade ?"
-4:22 PM,FX Trader 1 (Kemi),looking to push through 3 million but 77550 isnt going to work i need better,Amount,775.5,Neutral,looking to push through $ 3 million . but 775 . 50 isn ’ t going to work . i need better .
-4:23 PM,FX Trader 2 (Chinedu),3 million okay but kemi the markets tight right now 77550 is competitive how about 775 flat thats me squeezing it,Amount,775.5,Negative,"$ 3 million , okay . but kemi , the market ’ s tight right now . 775 . 50 is competitive . how about 775 flat ? that ’ s me squeezing it ."
-4:24 PM,FX Trader 1 (Kemi),chinedu you and i both know theres some room to maneuver here 77480 and ill confirm it right now,Rate Offer,774.8,Neutral,"chinedu , you and i both know there ’ s some room to maneuver here . 774 . 80 , and i ’ ll confirm it right now ."
-4:25 PM,FX Trader 2 (Chinedu),77480 is below where im comfortable kemi best i can stretch to is 77490 thats final,Rate Offer,774.8,Negative,"774 . 80 is below where i ’ m comfortable , kemi . best i can stretch to is 774 . 90 . that ’ s final ."
-4:26 PM,FX Trader 1 (Kemi),77490 huh alright youve got a deal lets lock it in for 3 million at 77490 get the paperwork sorted asap,Amount,774.9,Positive,"774 . 90 , huh ? alright , you ’ ve got a deal . let ’ s lock it in for $ 3 million at 774 . 90 . get the paperwork sorted asap ."
-4:27 PM,FX Trader 2 (Chinedu),done ill have everything over to you within the hour usual settlement t2,General,,Positive,"done . i ’ ll have everything over to you within the hour . usual settlement , t + 2 ?"
-4:28 PM,FX Trader 1 (Kemi),yes t2 appreciate the quick turnaround chinedu lets make this smooth,General,,Positive,"yes , t + 2 . appreciate the quick turn around , chinedu . let ’ s make this smooth ."
-4:29 PM,FX Trader 2 (Chinedu),you got it kemi well get it done,General,,Positive,"you got it , kemi . we ’ ll get it done ."
-,,,,,,
+4:20 PM,FX Trader 1 (Kemi),chinedu need to move on usdngn whats your rate,Currency,,Neutral,"chin, need, to, move, on, usd, ng, what, s, your, rate"
+4:21 PM,FX Trader 2 (Chinedu),kemi good to hear from you i can offer 77550 how much are you looking to trade,Rate Offer,775.5,Positive,"ke, good, to, hear, from, you, i, can, offer, how, much, are, you, looking, to, trade"
+4:22 PM,FX Trader 1 (Kemi),looking to push through 3 million but 77550 isnt going to work i need better,Amount,775.5,Positive,"looking, to, push, through, million, but, isn, t, going, to, work, i, need, better"
+4:23 PM,FX Trader 2 (Chinedu),3 million okay but kemi the markets tight right now 77550 is competitive how about 775 flat thats me squeezing it,Amount,775.5,Neutral,"million, okay, but, ke, the, market, s, tight, right, now, is, competitive, how, about, flat, that, s, me, squeezing, it"
+4:24 PM,FX Trader 1 (Kemi),chinedu you and i both know theres some room to maneuver here 77480 and ill confirm it right now,Rate Offer,774.8,Neutral,"chin, you, and, i, both, know, there, s, some, room, to, maneuver, here, and, i, ll, confirm, it, right, now"
+4:25 PM,FX Trader 2 (Chinedu),77480 is below where im comfortable kemi best i can stretch to is 77490 thats final,Rate Offer,774.8,Negative,"is, below, where, i, m, comfortable, ke, best, i, can, stretch, to, is, that, s, final"
+4:26 PM,FX Trader 1 (Kemi),77490 huh alright youve got a deal lets lock it in for 3 million at 77490 get the paperwork sorted asap,Amount,774.9,Positive,"huh, alright, you, ve, got, a, deal, let, s, lock, it, in, for, million, at, get, the, paperwork, sorted, asa"
+4:27 PM,FX Trader 2 (Chinedu),done ill have everything over to you within the hour usual settlement t2,General,,Positive,"done, i, ll, have, everything, over, to, you, within, the, hour, usual, settlement, t"
+4:28 PM,FX Trader 1 (Kemi),yes t2 appreciate the quick turnaround chinedu lets make this smooth,General,,Positive,"yes, t, appreciate, the, quick, turn, chin, let, s, make, this, smooth"
+4:29 PM,FX Trader 2 (Chinedu),you got it kemi well get it done,General,,Positive,"you, got, it, ke, we, ll, get, it, done"
